@@ -1,0 +1,1 @@
+{"rows":[{"status":"MISSING_BUYER","documents":2,"difference_inr":35089953.2247},{"status":"AMOUNT_DIFFERENCE","documents":2,"difference_inr":449966.499599999}],"columns":["status","documents","difference_inr"]}
